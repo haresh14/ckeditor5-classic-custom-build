@@ -88,6 +88,10 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-highlight": "^11.0.2"
+    "@ckeditor/ckeditor5-alignment": "^11.1.1",
+    "@ckeditor/ckeditor5-font": "^11.1.1",
+    "@ckeditor/ckeditor5-highlight": "^11.0.2",
+    "@ckeditor/ckeditor5-mention": "^11.0.0",
+    "@ckeditor/ckeditor5-remove-format": "^10.0.1"
   }
 }
